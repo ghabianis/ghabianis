@@ -8,4 +8,4 @@
 ghabianis/ghabianis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<center >![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical) </center>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical) 
