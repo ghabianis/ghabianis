@@ -17,12 +17,11 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank" rel="Laravel"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<div float="rigth">
+<div display='inline-block;margin-right:10px'>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical) 
 
-  
-  <p><img align="right" style='margin: 0%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ghabianis&show_icons=true&locale=en&layout=compact" alt="ghabianis" /></p>
 </div>
 
+  <p><img display='inline-block' style='margin: 0%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ghabianis&show_icons=true&locale=en&layout=compact" alt="ghabianis" /></p>
 
