@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical) </div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical) 
+
+</div>
