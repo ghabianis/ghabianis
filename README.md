@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Web Developer Angular Laravel At ASM (All Soft Multimedia)</h3>
 
 
-- 🌱 I’m currently Working as a Web Development graduate soon
-- 💞️ I’m looking open for any offer
+- 🌱 I’m currently working as a full stack Web Developer
+- 💞️ I’m always open for any offers
 - 📫 How to reach me: Email:anisghabi8@gmail.com or phone:90770350
 - My Porfolio : http://ghabianis.me/Anis-Ghabi-Portfolio-/
 
