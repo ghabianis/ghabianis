@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <div display='inline-block' align="right" >
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical)     <p margin='10%'><img  style='margin: 0%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ghabianis&show_icons=true&locale=en&layout=compact" alt="ghabianis" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghabianis&theme=radical)     <p align='left'><img  style='margin: 0%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ghabianis&show_icons=true&locale=en&layout=compact" alt="ghabianis" /></p>
 
  
 </div>
