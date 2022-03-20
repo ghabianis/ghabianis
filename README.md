@@ -3,9 +3,9 @@
 
 
 - 🌱 I’m currently learning Web Development graduate soon
-- 💞️ I’m looking to collaborate on any project in my domain
+- 💞️ I’m looking open for any offer
 - 📫 How to reach me: Email:anisghabi8@gmail.com or phone:90770350
-- My Porfolio : http://ghabianis.me/My-Portfolio/
+- My Porfolio : http://ghabianis.me/Anis-Ghabi-Portfolio-/
 
 <!---
 ghabianis/ghabianis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
