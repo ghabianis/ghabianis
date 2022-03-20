@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ghabianis
-- 👀 I’m a Web Developer
+<h1 align="center">Hello There 👋, I'm Mejdi Chennoufi</h1>
+<h3 align="center">Developer, Student and Trainer</h3>
 - 🌱 I’m currently learning Web Development graduate soon
 - 💞️ I’m looking to collaborate on any project in my domain
 - 📫 How to reach me: Email:anisghabi8@gmail.com or phone:90770350
