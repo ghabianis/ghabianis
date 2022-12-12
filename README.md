@@ -2,9 +2,9 @@
 <h3 align="center">Backend Developer At Tekab.dev</h3>
 
 
-- 🌱 I’m currently working as a full stack Web Developer
-- 💞️ I’m always open for any offers
-- 📫 How to reach me: Email:anisghabi8@gmail.com or phone:90770350
+- 🌱 I’m currently working as a Backend Web Developer @Tekab.dev
+- 💞️ I’m 1st year computer engineering student
+- 📫 How to reach me: Email:anisghabi8@gmail.com or anis.ghabi@tekab.dev or phone:90770350
 - My Porfolio : http://ghabianis.me/Anis-Ghabi-Portfolio-/
 
 <!---
