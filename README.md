@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently working as a Backend Web Developer @Tekab.dev
-- 💞️ I’m 1st year computer engineering student
+- 💞️ I’m 1st year software engineering student
 - 📫 How to reach me: Email:anisghabi8@gmail.com or anis.ghabi@tekab.dev or phone:90770350
 - My Porfolio : http://ghabianis.me/Anis-Ghabi-Portfolio-/
 
