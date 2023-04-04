@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<div align='center'>
+<div style="width:100%">
 <img  style='margin: 0%' src="https://github-readme-stats.vercel.app/api/top-langs?username=ghabianis&show_icons=true&locale=en&layout=compact" alt="ghabianis" />
   </div>
