@@ -4,9 +4,9 @@ Anis, Ghabi in love with BodyBuilding
 ```
 
 ### 📫 How to reach me
- [![email](https://img.shields.io/badge/@ghabianis-lightgrey?style=for-the-badge)](mailto:2861984+ghabianis@users.noreply.github.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieleiasella) 
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ov3rbit) 
+ [![email](https://img.shields.io/badge/@ghabianis-lightgrey?style=for-the-badge)](mailto:2861984+anisghabi8@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghabi-anis) 
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anisghabi) 
 
 ### This is my jam!
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=orange) 
