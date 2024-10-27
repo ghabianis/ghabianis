@@ -1,6 +1,6 @@
 ```shell
 $ uname -a
-Anis, Ghabi in love with BodyBuilding
+Anis, Ghabi in love with coding
 ```
 
 ### 📫 How to reach me
