@@ -1,7 +1,7 @@
-```shell
-$ uname -a
-Anis, Ghabi in love with coding
-```
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&center=true&random=false&width=435&lines=Hi+There+!+%F0%9F%91%8B;I'm+Anis+Ghabi" alt="Typing SVG" /></a>
+</p>
+
 
 ### 📫 How to reach me
  [![email](https://img.shields.io/badge/@ghabianis-lightgrey?style=for-the-badge)](mailto:2861984+anisghabi8@gmail.com)
